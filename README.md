@@ -1,4 +1,4 @@
-# Project Title: Scraping and Visualizing Website Data with Python and BeautifulSoup
+# Scraping and Visualizing Website Data with Python and BeautifulSoup
 
 ## Description:
 This little project demonstrates how to use Python and BeautifulSoup to scrape data from the website "https://books.toscrape.com/". The scraped data is then cleaned and combined into a dataset to visualize the correlation between book prices and their types.
@@ -84,4 +84,6 @@ plt.title("Price Comparison: Fiction, Classics, Fantasy, Music, and Science")
 plt.tight_layout()
 plt.show()
 ```
+![Comparison Chart](comparison.png)
+
 
